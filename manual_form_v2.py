@@ -6,7 +6,7 @@ from datetime import datetime
 # ⚙️ ตั้งค่า LINE
 # ==========================================
 LINE_TOKEN = "Gaow3ZPWwaqdrBsLWEF54B6xlMmrls4NV1exzMjShgmWQS6bsCWyxlPm6tli+MY4ImenfaWuiNnse1Q3QaGl7Pj9c8u79m6PXZkRZuwr4J5/DKd6yw0zLz1yQL62EmXMnC94YGgBi/1CX4ZTxbeSXwdB04t89/1O/w1cDnyilFU="
-GROUP_ID = "Ca5467fb421c7c3878130f77530617627"
+GROUP_ID = "C7b1de1ece104d6805c5dad65f334c1d6"
 # ==========================================
 
 def send_line_message(message):
